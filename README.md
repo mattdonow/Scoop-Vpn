@@ -1,3 +1,17 @@
+ABOUT
+
+****************************************ABOUT***************************************************************
+This is a fork of the poular ics-openvn application for android. Many VPN services exist to allow users to remain secure over unsecured wifi hotspots. Most providers give a plethora of vpn endpoints to connect to, and many allow easy sorting and filtering by location.
+Some providers don't have an Andoid app ( @Airvpn), while others do but users may wish to still use an open source version.
+This fork will add UI's to more easily manage the selection of servers.
+
+About the name: The origional is called ics-openvpn due to API 14 ( Ice Cream Sandwich) providing the API ( as well as iscream being amazing). Therefore, until I complete this and merge it back, it will be called Scoop Vpn.
+
+
+*****************************ORIGIONAL README*********************************************************************************
+
+
+
 OpenVPN for Android
 =============
 [![Build Status](https://travis-ci.org/schwabe/ics-openvpn.svg?branch=master)](https://travis-ci.org/schwabe/ics-openvpn)
